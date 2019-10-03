@@ -1,0 +1,42 @@
+body{
+	padding:0px;
+	margin:0px;
+	background-image:url(training.jpg);
+	background-size:cover;
+	background-repeat:no-repeat;
+	color:white;
+}
+li {
+display: inline;
+margin-right: 60px;
+}
+a {
+	color:white;
+}
+p
+{
+background-color:#000000;
+}
+h1
+{
+background-color:#800000;
+}
+h1,
+h2 {
+    color: #FF5800;
+}
+a:hover,
+a:focus {
+    color: #c84600;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: 'Oxygen', sans-serif;
+    margin-top: 0px;
+    font-weight: 600;
+}
+
